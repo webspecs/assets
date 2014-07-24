@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 254 254">
   <title>Web Platform Specs Logo</title>
-<!--
+
   <style type="text/css">
     #strut-1, #top-1  { fill: #f99d1c; }
     #join-1           { fill: #d02e27; }
@@ -15,36 +15,53 @@
         stroke-width: 10px;
     }
     #background {
-        fill: #000;
+        fill: #fff;
+        stroke: #fe6a65;
+        stroke-width: 30;
     }
   </style>
--->
+<!-- lighter
   <style type="text/css">
-    #strut-1  { fill: #f99d1c; }
-    #join-1   { fill: #d02e27; }
-    #strut-2  { fill: #dc4e3e; }
-    #join-2   { fill: #58152a; }
-    #strut-3  { fill: #694d9f; }
-    #join-3   { fill: #263c82; }
-    #strut-4  { fill: #30b4c5; }
+    #strut-1  { fill: #FFB855; }
+    #join-1   { fill: #FF5D55; }
+    #strut-2  { fill: #FF6453; }
+    #join-2   { fill: #FF5289; }
+    #strut-3  { fill: #A06EFF; }
+    #join-3   { fill: #6186FF; }
+    #strut-4  { fill: #55EAFF; }
     #outline {
         fill: #f1ecd7;
         stroke: #f1ecd7;
         stroke-width: 10px;
     }
     #background {
-        fill: #000;
+        fill: #fe6a65;
     }
   </style>
+-->
+<!-- superlight
+  <style type="text/css">
+    #strut-1  { fill: #ffe2b8; }
+    #join-1   { fill: #ffbbb8; }
+    #strut-2  { fill: #ffbdb6; }
+    #join-2   { fill: #ffb4cc; }
+    #strut-3  { fill: #dccbff; }
+    #join-3   { fill: #b6c7ff; }
+    #strut-4  { fill: #b5f6ff; }
+    #outline {
+        fill: #f1ecd7;
+        stroke: #f1ecd7;
+        stroke-width: 10px;
+    }
+    #background {
+        fill: #fe6a65;
+    }
+  </style>
+-->
   
-  <!--
-    XXX
-      place the logo in the middle as described on the site
-  -->
-  
-  <rect id="background" x="-500" y="-500" width="2000" height="2000"/>
+  <rect id="background" x="0" y="0" width="254" height="254"/>
 
-  <svg id="logo" x="5" y="5" overflow="visible" transform="translate(42, 42) scale(.6667)">
+  <svg id="logo" x="5" y="5" overflow="visible" transform="translate(57, 57) scale(.55)">
     <path id="outline" d="M66,33 V131.5 L98.76,98.57 A33,33 0 0,1 145.33,98.67 L178,131.5 V33 A33,33 0 1,1 244,33 V211 A33,33 45 0,1 187.67,234.43 L122,168.67 L56.33,234.43 A33,33 45 0,1 0,211 V33 A33,33 45 1,1 66,33 Z"/>
     
     <path id="strut-1" d="M66,33 V211 A33,33 0 1,1 0,211 V33 A33,33 45 1,1 66,33 Z M33,19 A14,14 0 1,0 33,47 A14,14 0 1,0 33,19 Z M33,197 A14,14 0 1,0 33,225 A14,14 0 1,0 33,197 Z"/>
