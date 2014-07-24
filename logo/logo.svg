@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 260 260">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 254 254">
   <title>Web Platform Specs Logo</title>
 <!--
   <style type="text/css">
@@ -37,9 +37,14 @@
     }
   </style>
   
+  <!--
+    XXX
+      place the logo in the middle as described on the site
+  -->
+  
   <rect id="background" x="-500" y="-500" width="2000" height="2000"/>
 
-  <svg id="logo" x="8" y="8" width="260" height="260" viewBox="-5 -5 265 265" overflow="visible">
+  <svg id="logo" x="5" y="5" overflow="visible">
     <path id="outline" d="M66,33 V131.5 L98.76,98.57 A33,33 0 0,1 145.33,98.67 L178,131.5 V33 A33,33 0 1,1 244,33 V211 A33,33 45 0,1 187.67,234.43 L122,168.67 L56.33,234.43 A33,33 45 0,1 0,211 V33 A33,33 45 1,1 66,33 Z"/>
     
     <path id="strut-1" d="M66,33 V211 A33,33 0 1,1 0,211 V33 A33,33 45 1,1 66,33 Z M33,19 A14,14 0 1,0 33,47 A14,14 0 1,0 33,19 Z M33,197 A14,14 0 1,0 33,225 A14,14 0 1,0 33,197 Z"/>
