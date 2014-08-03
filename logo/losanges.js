@@ -1,9 +1,11 @@
+/* global randomColor */
 
 // we have a 500x500 square we'd like to fill in both directions
 
-function fill (el, i, j) {
-    var colours = ["#f00", "#fc0"];
-    el.setAttribute("fill", colours[(i + j) % 2]);
+function fill (el) {
+    // var colours = ["#f00", "#fc0"];
+    // el.setAttribute("fill", colours[(i + j) % 2]);
+    el.setAttribute("fill", randomColor({ hue: "green", count: 1 }));
 }
 
 function fillWithLosanges (el) {
