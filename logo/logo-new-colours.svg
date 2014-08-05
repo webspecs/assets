@@ -10,8 +10,8 @@
     #join-3   { fill: #126f74; }
     #strut-4  { fill: #66b8bc; }
     #outline {
-        fill: #f1ecd7;
-        stroke: #f1ecd7;
+        fill: #fff;
+        stroke: #fff;
         stroke-width: 10px;
     }
     #background {
