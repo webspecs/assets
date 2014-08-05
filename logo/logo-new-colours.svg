@@ -2,22 +2,22 @@
   <title>Web Platform Specs Logo</title>
 
   <style type="text/css">
-    #strut-1  { fill: #f99d1c; }
-    #join-1   { fill: #d02e27; }
-    #strut-2  { fill: #dc4e3e; }
-    #join-2   { fill: #58152a; }
-    #strut-3  { fill: #694d9f; }
-    #join-3   { fill: #263c82; }
-    #strut-4  { fill: #30b4c5; }
+    #strut-1  { fill: #9ed33a; }
+    #join-1   { fill: #bf201c; }
+    #strut-2  { fill: #fe6965; }
+    #join-2   { fill: #9b174f; }
+    #strut-3  { fill: #cd5295; }
+    #join-3   { fill: #126f74; }
+    #strut-4  { fill: #66b8bc; }
     #outline {
         fill: #f1ecd7;
         stroke: #f1ecd7;
         stroke-width: 10px;
     }
     #background {
-        fill: #fff;
-        stroke: #fe6a65;
-        stroke-width: 30;
+      fill: #f1ecd7;
+      stroke: #999;
+      stroke-width: 2;
     }
   </style>
 
