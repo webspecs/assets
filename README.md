@@ -1,4 +1,4 @@
-design-assets
+Assets for specs.wpo
 =============
 
-Visual assets for Web Platform Specs
+Common assets for Web Platform Specs
