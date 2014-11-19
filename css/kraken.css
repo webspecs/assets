@@ -286,7 +286,7 @@ ol.inline li:before {
 /********** Inlines  **************/
 a:link, a:visited {
     border-bottom: 1px solid silver;
-    color:  #0074d9;
+    color: #0063B8;
     text-decoration:    none;
 }
 a[href] img {
