@@ -935,5 +935,5 @@ table.proptable th .property {
 /* table pretty */
 
 tr:nth-child(2n+1) {
-	background-color: #99ff99;
+	background-color: #CCC;
 }
