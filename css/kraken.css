@@ -651,7 +651,7 @@ blockquote {
     border-color: orange;
     border-style: none solid;
     background: #FFEECC;
-    text-align: center;
+    text-align: left;
 }
 strong.advisement {
     display: block;
