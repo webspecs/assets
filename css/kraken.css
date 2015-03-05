@@ -51,9 +51,6 @@ html {
 body > section {
     padding-bottom:    3em;
 }
-section {
-    padding-bottom:    2em;
-}
 
 /* Top boilerplate */
 header {
@@ -85,13 +82,10 @@ h1, h2, h3, h4, h5, h6, dt {
     page-break-after: avoid;
 }
 h2, h3 { color: #0074d9; }
-h2, h3, h5, h6 {
-    margin-top: 3em;
-}
 h1 { font: 170%; }
 h2 { font: 140%; }
 h3 { font: 120%; }
-h4 { font: bold 100%; margin-top: 4em; }
+h4 { font: bold 100%; }
 h5 { font: italic 100%; }
 h6 { font: small-caps 100%; }
 h1 + h2,
